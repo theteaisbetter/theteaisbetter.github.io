@@ -1,0 +1,18 @@
+h1{
+    color: rgb(75, 0, 130);
+}
+
+table{
+    background: rgb(106, 90, 205);
+    width: 900px;
+    height: 500px;
+    border: rgb(25, 25, 112) 4px solid;
+}
+
+a{
+    color: rgb(50, 5, 100);
+}
+
+body{
+    background: rgb(72, 61, 139);
+}

@@ -1,0 +1,22 @@
+table{
+    background: url(bg.jpg);
+    background-position: center;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center
+}
+
+img{
+    border: green 2px solid;
+}
+
+.name{
+    text-shadow: 1px 1px 1px white;
+}
+
+.subtitle{
+    text-shadow: 1px 1px 1px white;
+}
+
+.title{
+    text-shadow: 1px 1px 1px white;
+}
