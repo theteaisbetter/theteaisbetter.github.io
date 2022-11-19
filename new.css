@@ -39,3 +39,7 @@
     height: 1080px;
     border: solid 10px green;
 }
+
+div{
+    border: 1px solid red;
+}
