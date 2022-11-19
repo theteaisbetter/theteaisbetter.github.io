@@ -1,0 +1,41 @@
+.Base{
+    background-color: gray;
+    weight: 1920px;
+    height: 1080px;
+    border: solid 10px green;
+}
+
+.BlueCube1{
+    position: absolute;
+    left: 8px;
+    top: 10px;
+    background-color: blue;
+    width: 100px;
+    height: 30px;
+}
+
+.BlueCube2{
+    position: absolute;
+    left: 8px;
+    top: 60px;
+    background-color: blue;
+    width: 100px;
+    height: 30px;
+}
+
+.BlueCube3{
+    position: absolute;
+    left: 8px;
+    top: 110px;
+    background-color: blue;
+    width: 100px;
+    height: 30px;
+}
+.InteriorBase{
+    position: absolute;
+    left: 8px;
+    top: 8px;
+    width: 120px;
+    height: 1080px;
+    border: solid 10px green;
+}
