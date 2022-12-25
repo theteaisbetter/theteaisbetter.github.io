@@ -1,0 +1,42 @@
+html{
+  font-family: 'Oswald', sans-serif;
+  background-image: url("podVodoi.jpg");
+}
+
+label{
+  color: white;
+  text-shadow: 4px 4px 4px black;
+  margin-right: 100%;
+}
+
+input{
+  margin-right: 100%;
+}
+
+.info{
+  margin-right: 0%;
+}
+
+h1{
+  color: white;
+  text-shadow: 4px 4px 4px black;
+  margin-right: 100%;
+  width: 1000px;
+}
+
+a{
+  top: 90%;
+  position: absolute;
+  color: white;
+  text-shadow: 4px 4px 4px black;
+  margin-right: 100%;
+  font-size: 37px;
+  width: 1000px;
+  text-decoration: none;
+}
+
+.accept{
+  position: absolute;
+  top: 61%;
+  left: 2%;
+}
